@@ -1,0 +1,27 @@
+.dash-nav-custom {
+  /* border-right: 2px solid gray; */
+}
+.dash-nav-custom a {
+  text-decoration: none;
+  color: rgb(37, 36, 36);
+  border-radius: 5px;
+  font-weight: 500;
+}
+.dash-nav-custom a:hover {
+  color: white !important;
+  background-color: #079d70;
+  border-radius: 5px;
+}
+
+.dash-nav-custom a:focus {
+  color: white;
+  background-color: #079d70;
+  border-radius: 5px;
+}
+
+.dash-nav-custom a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}

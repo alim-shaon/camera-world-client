@@ -1,0 +1,10 @@
+.banner {
+  background-image: url(../../../images/banner.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  text-align: left;
+  color: rgb(49, 47, 47);
+}

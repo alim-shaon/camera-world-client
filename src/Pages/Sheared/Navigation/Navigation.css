@@ -1,0 +1,28 @@
+.nav-container {
+  background-color: #079d70;
+}
+.nav-custom a {
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.nav-custom a:hover {
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.nav-custom a:focus {
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.nav-custom a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}

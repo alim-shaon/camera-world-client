@@ -1,0 +1,69 @@
+[
+
+    {
+        "productName":"Canon EOS R5 Mirrorless Camera ",
+        "img":"https://i.ibb.co/zHhDc9X/Canon-EOS-R-Mirrorless-Camera.png",
+        "description":" Canon's all-new 45 Megapixel full-frame sensor is at the heart of the EOS R5's superb image quality, which also leads the way for impressive 8K DCI cinematic movie capture with the ability to extract 35.4 Megapixel still images. Focus and speed are paramount in the EOS R5, providing impressive continuous capture at speeds of up to 20 frames-per-second and with Dual Pixel CMOS AF II capability, to track split second movements of even the most elusive of subjects. With 1,053 Automatic AF zones, it is easier than ever to photograph people with the use of Eye, Face and Head Detection AF, or intuitively track the whole body, face or eye of cats, dogs, or birds with Animal Detection AF. The 5-axis in-body image stabilization can effectively compensate for camera shake with approximately 8 stops of stabilization with use of certain non-stabilized, and optically image stabilized lenses. Connectivity like 5GHz and 2.4GHz Wi-Fi and Bluetooth, is also included.",
+        "price":"3800.99"
+    },
+    {
+        "productName":"Nikon D850 FX DSLR Camera",
+        "img":"https://i.ibb.co/Jq9tFTR/Nikon-D850-FX-DSLR-Camera-Body.png",
+        "description":"Resolution meets speed with the Nikon D850, the 45.7MP BSI CMOS sensor and EXPEED 5 image processor give you the quality and speed you need to get the shot you want with continuous 7 fps up to 51 frames. Great in low-light conditions utilizing the power of back-illuminated sensor to capture the clarity and detail you're looking for. Delving into the 4K UHD video recording, you're able to utilize the DX crop factor or entire full-frame sensor. 8K time-lapse recording mode is available to show the world from a whole new time frame.",
+        "price":"2400"
+    },
+    {
+        "productName":"Sony Alpha a7 III Mirrorless ",
+        "img":"https://i.ibb.co/7S5fmCv/Sony-Alpha-a7-III-Mirrorless-Camera.png",
+        "description":"The Sony Alpha a7 III Mirrorless Digital Camera is a well-rounded camera perfect for both photo and video applications. It features a full-frame 24.2MP Exmor R BSI CMOS sensor and BIONZ X image Processer that pair to achieve impressive 10 fps continuous shooting as well as improved autofocus performance for faster, more reliable subject tracking along with wide frame coverage. This sensor structure works with gapless on-chip lens design and an anti-reflection coating, as well as eliminating the optical low-pass filter, to improve light collection and enhance detail. A copper wiring layer dramatically improves data transmission speed for creating 14-bit, high-resolution stills with a sensitivity range from ISO 100-51200, which can be further expanded to ISO 50-204800. UHD 4K video recording is also supported with a wide dynamic range using the full width of the full-frame sensor. The BIONZ X processor also works in conjunction with a high-speed front-end LSI to realize faster processing times along with the ability to capture an impressive 15-stop dynamic range at low sensitivity values.",
+        "price":"1998.00"
+    },
+    {
+        "productName":"Ricoh GR III Digital Camera",
+        "img":"https://i.ibb.co/JvqDwrD/Ricoh-GR-III-Digital-Camera.png",
+        "description":"This model is equipped with a new GR lens that surpasses all other GR lenses with its amazing optical performance.A six-element, four-group optical system is used to achieve images that are sharp from the center to the edge with clear depiction. The optical system is slim and compact so the body can accommodate an in-camera Shake Reduction mechanism. The effects of camera shake on image quality are minimized and the full capabilities of the newly designed GR lens optical performance are maximized for a variety of scenes.",
+        "price":"891.95"
+    },
+    {
+        "productName":"Nikon D5600 DSLR Camera with 18-55mm and 70-300mm Lenses ",
+        "img":"https://i.ibb.co/1mVJKbQ/Nikon-D5600-DSLR-Camera-with-18-55mm-and-70-300mm-Lenses.png",
+        "description":"Compact, capable, and connected, the Nikon D5600 is a sleek DSLR that blends multimedia imaging capabilities with versatile wireless technology. Centered around a 24.2MP DX-format CMOS sensor and EXPEED 4 image processor, the camera offers a sensitivity range from ISO 100-25600 to benefit working in an array of lighting conditions, and the sensor and processor combination also supports continuous shooting up to 5 fps for working with moving subjects. It is able to record full HD 1080p video, supports up to 60 fps, and allows you to create time-lapse movies in-camera.",
+        "price":"1200"
+    },
+    {
+        "productName":"FUJIFILM X100V Digital Camera",
+        "img":"https://i.ibb.co/MnNdKnc/FUJIFILM-X100-V-Digital-Camera.png",
+        "description":"The FUJIFILM X100V combines the quality and control of a professional camera with the size and simplicity of a compact one, for outstanding photography every day. A new 23mmF2 fixed lens perfectly complements the cutting-edge 26.1MP X-Trans CMOS 4 back-side illuminated sensor at its heart. The X100V also features the powerful X-Processor 4 quad-core imaging engine, which drives superfast, precision autofocus right down to -5EV, while an Advanced Hybrid Viewfinder ensures photographers are always ready for the perfect moment. With the addition of a tilting LCD touchscreen, optional weather sealing (with separately purchased lens) and a great design, you have the perfect recipe for beautiful still images and spectacular 4K video, whatever the situation.",
+        "price":"1399"
+    },
+    {
+        "productName":"Nikon D500 DSLR",
+        "img":"https://i.ibb.co/ZJfgYHp/Nikon-D500-DSLR.png",
+        "description":"Meet the new DX flagship, the Nikon D500. At first glance, it may seem unimposing—but contained within a streamlined camera body is a veritable powerhouse of processing power and technological advances. The D500 is ready to go wherever your passion leads you, capturing everything with stunning clarity, speed and resolution. From busy, low-light cityscapes to thrilling wildlife scenes and fast action shots, the D500 is the ideal companion to your wanderlust. Marvel at the clarity of its cinematic 4K UHD video. Be amazed at its ruggedness and versatility. And, once you've captured your gorgeous photos, admire them on the D500's high resolution tilt touchscreen display and share them via the built-in SnapBridge (Wi-Fi + Bluetooth) capabilities. No matter what you shoot, you can be sure that the D500 will be up to the task, time and time again.",
+        "price":"1595.80"
+    },
+    {
+        "productName":"Panasonic Lumix DMC-G85 Mirrorless Camera",
+        "img":"https://i.ibb.co/hybJrMd/Panasonic-Lumix-DMC-G85-Mirrorless-Camera.png",
+        "description":"The Panasonic LUMIX G85 offers over 27 LUMIX compact lens options built on the next-generation interchangeable lens camera standard (Micro Four Thirds) pioneered by Panasonic. Its mirrorless design enables a lighter, more compact camera body that includes cutting-edge video, audio, creative controls, wireless, intelligent-focusing, gyro sensor control in body image stabilization and exposure technologies not possible with traditional DSLRs. And with the exclusive LUMIX 4K Ultra HD video pause and export as a 4K PHOTO mode, you'll never again miss that one shot that perfectly captures a scene.",
+        "price":"785"
+    },
+    {
+        "productName":"Olympus Tough TG-6 Waterproof Digital Camera",
+        "img":"https://i.ibb.co/pK3xf9w/Olympus-Tough-TG-6-Waterproof-Digital-Camera.png",
+        "description":"You live for the outdoors. Hiking steep mountain trails. Backpacking through a desert canyon. Skiing in the wilderness. The Tough TG-6 is ready for adventure. It's built to endure all the extreme environments you love exploring. You can drop it. Step on it. Go deep underwater or out into a freezing blizzard. It just keeps on shooting awesome stills and video. Packed with pro features, you'll nail difficult shots — even in low light. Shoot intricately detailed macro photos and unique shots underwater with vivid color. The lightweight, compact Tough TG-6. Engineered to survive the world's toughest places.",
+        "price":"359.99"
+    },
+    {
+        "productName":"Nikon Z 7II Mirrorless Camera ",
+        "img":"https://i.ibb.co/bX8zqXD/Nikon-Z-7-II-Mirrorless-Camera.png",
+        "description":"This is the full frame mirrorless camera for those who sweat every little detail. There's the ultra-high resolution of 45.7 megapixels with no optical low-pass filter. The power of dual processors. 4K Ultra HD video at 60p. The next-generation 493-point autofocus system. High-speed shooting with the buffer capacity to match. Two card slots. Tons of creative features. Flexible power options. Compatibility with a vertical battery grip. Wireless connectivity with smartphones and laptops and so much more.",
+        "price":"2696.95"
+    },
+    {
+        "productName":"Panasonic Lumix DMC-ZS70 Digital Camera",
+        "img":"https://i.ibb.co/x3km2zR/Panasonic-Lumix-DMC-ZS70-Digital-Camera.png",
+        "description":"The new Panasonic Lumix DMC-ZS70 Digital Camera is a pocketable multimedia powerhouse that blends a sleek from factor with versatile stills and video capabilities. The Lumix DMC-ZS70 features a 20.3MP 1/2.3. High-Sensitivity Live MOS sensor that realizes rich image quality with low noise and sensitivity to an extended ISO 6400 for working in difficult lighting conditions. This powerhouse camera can shoot continuously at up to 10 fps with single-shot AF, 30 fps at 8MP in 4k Photo Modes, and UHD 4k video recording at 30p. The 4k capabilities also allow working with unique Post Focus technology for choosing a specific point of focus after shooting.",
+        "price":"450"
+    }
+]
